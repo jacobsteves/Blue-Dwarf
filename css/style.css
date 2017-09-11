@@ -1,0 +1,101 @@
+#accordion {
+    display:none;
+    float: left;
+    width: 80%;
+}
+#accordion.show {
+    display: block;
+}
+#orbit_simple {
+  display: none;
+}
+#orbit_advanced {
+  top: 0;
+}
+body {
+  overflow-y: hidden;
+}
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width:100%;
+    min-height:100%;
+    font-size:100px;
+    text-align:right;
+    filter: alpha(opacity=0);
+    opacity:0;
+    outline:none;
+    background:white;
+    cursor: inherit;
+    display:block;
+}
+#input_panel {
+    position: absolute;
+    bottom: 12px;
+    left: 12px;
+    width: 45%;
+    max-width: 410px;
+    min-width: 240px;
+}
+
+#pullout_menu {
+    display: inline-block;
+    font-size: 1em;
+    color: #fff;
+    margin: 0px;
+    padding: 5px;
+    float: left;
+    font-size: 2em;
+    cursor: pointer;
+}
+#start .stop {
+    display:none;
+}
+#start.stop .stop {
+    display:inline-block;
+}
+#start.stop .start {
+    display:none;
+}
+#record .stoprec {
+    display:none;
+}
+#record.stop .stoprec {
+    display:inline-block;
+}
+#record.stop .rec {
+    display:none;
+}
+
+.arrowcircle {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background: lightgray;
+    border-radius:50%;
+    display: inline-block;
+}
+.arrowpointer {
+    height: 0px;
+    width: 20px;
+    transform: rotate(0 deg);
+    border: 2px solid black;
+    transform-origin: 0% 50%;
+    -webkit-transform-origin: 0% 50%;
+    position: absolute;
+    top: 50%; left: 50%;
+}
+.slider_with_pips {
+    margin-bottom: 40px;
+    margin-top: 5px;
+}
+
+div .noUi-extended {
+    display: inline-block;
+    width: 100%;
+}

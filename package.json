@@ -1,0 +1,25 @@
+{
+  "name": "OrbitalSimulator",
+  "version": "1.0.0",
+  "description": "An Electron application allowing users to simulate gravitational orbits.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/jacobsteves/OrbitalSimulator",
+  "keywords": [
+    "Chess",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Jacob Steves",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "dependencies": {
+    "jquery": "^2.1.3"
+  }
+}
