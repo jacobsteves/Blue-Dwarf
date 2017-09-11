@@ -1,7 +1,7 @@
 engine.startRecord = function() {
     engine.recording = true;
     engine.recFrame = -1;
-    engine.encoder = new GIF({wokers:4, quality: 10, width: engine.xsize, height: engine.ysize, workerScript: 'lib/gifjs/gif.worker.js'});
+    engine.encoder = new GIF({wokers:4, quality: 10, width: engine.xsize, height: engine.ysize, workerScript: 'lib/vendor/gifjs/gif.worker.js'});
 
     engine.encoder.on('finished', function(blob) {
         engine.saveGif(blob);
