@@ -26,3 +26,8 @@ A desktop application that simulates orbits and gravity.
 1. Clone this repo
 2. In /OrbitalSimulator/ run `npm install && npm start`
 3. Press the hamburger button in the bottom left corner and have fun
+
+## Use
+- Click the hamburger button in the bottom left of the screen
+- Maneuver through the menu system
+- If on Advanced, place your planets/choose your preset and then click Playback > Play 
