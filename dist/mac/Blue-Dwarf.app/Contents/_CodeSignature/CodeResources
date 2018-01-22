@@ -10,11 +10,11 @@
 		</data>
 		<key>Resources/app-update.yml</key>
 		<data>
-		116r/B9xngoLDiwcMg9O1smJSYE=
+		OEGfNtBfF6e2NV+gg0aROHq+0Js=
 		</data>
 		<key>Resources/app.asar</key>
 		<data>
-		4p4ppi8GwLIc6hSbuUNcBfDpC78=
+		B06HJi5vpnY/IPKKS/Z3RqBqmIw=
 		</data>
 		<key>Resources/electron.asar</key>
 		<data>
@@ -54,7 +54,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			kGcxxZQWxrem4pu6LLdMpRYsliU=
+			hluckeJgnr/4hZaxTS23Wmc9C6c=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Jacob Steves (H5SDE6S39W)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			mpgA0Evhj6wxFa+rJ8mOQ5RZU9g=
+			jQwilMB6psxwDA0mxUjiB6WiSk4=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Jacob Steves (H5SDE6S39W)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -101,22 +101,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			116r/B9xngoLDiwcMg9O1smJSYE=
+			OEGfNtBfF6e2NV+gg0aROHq+0Js=
 			</data>
 			<key>hash2</key>
 			<data>
-			r3/YkafP/gvn9o/1JtfQ+OWjW2vaAyRV93JdzZGz3So=
+			gjx5Le2iq61QIeAFVeYMzSMGgSXUVhsZmmV3ThMVqQA=
 			</data>
 		</dict>
 		<key>Resources/app.asar</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4p4ppi8GwLIc6hSbuUNcBfDpC78=
+			B06HJi5vpnY/IPKKS/Z3RqBqmIw=
 			</data>
 			<key>hash2</key>
 			<data>
-			NBQKHPrERJuH7LuyY4tYcAJV0fxVF7Bq4Y9pdHXcVBE=
+			YrCa4DmzpwC2lSNLlqJ7fDbqNfNlMJ8Sb8k83vgeMgU=
 			</data>
 		</dict>
 		<key>Resources/electron.asar</key>

@@ -1,10 +1,10 @@
 version: 2.0.0
 files:
   - url: Blue-Dwarf-2.0.0-mac.zip
-    sha512: odIUZ8CJSOM6i6AmLyAjKQh2zM9vaQQgxcNHxDuffZFBFMN4W3vUOiFFcofNaYCHoV+7m1o9opC8ETeaFprqKQ==
+    sha512: b+3v5uF63+5LSAJeuoy+tqqZ0OZfN5Yz8zsMUWGCbIMTxL2sGL+gwc79IoyE4UYnxhqEafwq3XzZpUMrIj8bDg==
   - url: Blue-Dwarf-2.0.0.dmg
-    sha512: Ak2xLcgIVrFzfe0a7rg0ZDyNJI4/eW+vcRhd156NQtix0UGy1b1Gc+AWKBNrzn+/glCX/DhWSZMQTIgvWMf21g==
-    size: 49922714
+    sha512: d7TkAzmdIQUqg7oAAwDQX/dVG1KY6AwwK+FevEdSbg72Lg4hG7v68c2oXCW0xzazl4DOiu7hpRIJnRfwjLOU5w==
+    size: 49922792
 path: Blue-Dwarf-2.0.0-mac.zip
-sha512: odIUZ8CJSOM6i6AmLyAjKQh2zM9vaQQgxcNHxDuffZFBFMN4W3vUOiFFcofNaYCHoV+7m1o9opC8ETeaFprqKQ==
-releaseDate: '2018-01-22T02:04:00.983Z'
+sha512: b+3v5uF63+5LSAJeuoy+tqqZ0OZfN5Yz8zsMUWGCbIMTxL2sGL+gwc79IoyE4UYnxhqEafwq3XzZpUMrIj8bDg==
+releaseDate: '2018-01-22T02:18:14.437Z'
