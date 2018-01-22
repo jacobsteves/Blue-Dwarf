@@ -1,0 +1,10 @@
+version: 1.0.0
+files:
+  - url: OrbitalSimulator-1.0.0-mac.zip
+    sha512: F6SvlP29imyjwvJBjNA5FFQxd/dC20dXVAH1WoIFvsH1kM/diojhvOcIpckv09ZJHNt/mKN2Dy1lzck1g5okZQ==
+  - url: OrbitalSimulator-1.0.0.dmg
+    sha512: Z2jJgmRQIWIuMgpzQu0asIBRky4UqYRM09ezO1TlfYdGuXKpa1dGY9ue3elhAa1UEswaxmVMvskUWrd2ig8/wQ==
+    size: 48353837
+path: OrbitalSimulator-1.0.0-mac.zip
+sha512: F6SvlP29imyjwvJBjNA5FFQxd/dC20dXVAH1WoIFvsH1kM/diojhvOcIpckv09ZJHNt/mKN2Dy1lzck1g5okZQ==
+releaseDate: '2018-01-22T00:55:45.412Z'
