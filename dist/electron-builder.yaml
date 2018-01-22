@@ -1,7 +1,7 @@
 directories:
   output: dist
   buildResources: build
-appId: your.id
+appId: ca.jacobsteves.bluedwarf
 mac:
-  category: your.app.category.type
-electronVersion: 1.6.15
+  category: ca.jacobsteves.bluedwarf
+electronVersion: 1.7.10
