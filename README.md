@@ -1,4 +1,7 @@
 ![Logo](build/logo.png)
+
+[![Build Passing](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/jacobsteves/Blue-Dwarf/releases/)
+
 A desktop application that simulates orbits and gravity.
 
 ## Features
