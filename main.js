@@ -105,7 +105,7 @@ const menuData = [
     submenu: [
       {
         label: 'Learn More',
-        click () { require('electron').shell.openExternal('https://github.com/jacobsteves/OrbitalSimulator') }
+        click () { require('electron').shell.openExternal('https://github.com/jacobsteves/Blue-Dwarf') }
       }
     ]
   }

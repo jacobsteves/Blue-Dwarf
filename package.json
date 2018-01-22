@@ -8,7 +8,7 @@
     "pack": "electron-builder --dir",
     "dist": "electron-builder"
   },
-  "repository": "https://github.com/jacobsteves/OrbitalSimulator",
+  "repository": "https://github.com/jacobsteves/Blue-Dwarf",
   "keywords": [
     "Chess",
     "quick",
