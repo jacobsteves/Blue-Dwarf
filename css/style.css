@@ -1,10 +1,10 @@
 #accordion {
-    display:none;
+    display:block;
     float: left;
     width: 80%;
 }
-#accordion.show {
-    display: block;
+#accordion.hide {
+    display: none;
 }
 #orbit_simple {
   display: none;

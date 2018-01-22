@@ -19,9 +19,9 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>2.0.0</string>
+    <string>2.0.1</string>
     <key>CFBundleVersion</key>
-    <string>2.0.0</string>
+    <string>2.0.1</string>
     <key>DTSDKBuild</key>
     <string>14D125</string>
     <key>DTSDKName</key>
@@ -45,6 +45,6 @@
     <key>NSHumanReadableCopyright</key>
     <string>Copyright © 2018 Jacob Steves</string>
     <key>AsarIntegrity</key>
-    <string>{"checksums":{"app.asar":"ZjvC9dEO3/lgJ709fUPL5J8E/t+UdyfFz/pfke4MuNIRKi1GWv2sK05dB8OMuCVcO2immSk24tvohsB/H+m1lA==","electron.asar":"N8qMkArPe2Vz78otrpXE3aNxOfCVyD1sqLzLTkMM5HY6Di2N/zv+HQhnv0+XjE/PttdJYymWUm+D0oj39WbLiA=="}}</string>
+    <string>{"checksums":{"app.asar":"i0fkjXNXgOqQmHRhVuC5mJAdP10qhYpWs0tRfYlBg+mKCMtDLFS1DiSnTH3ayZe+xWTMpPhyO+lSGyiqfBVyaw==","electron.asar":"N8qMkArPe2Vz78otrpXE3aNxOfCVyD1sqLzLTkMM5HY6Di2N/zv+HQhnv0+XjE/PttdJYymWUm+D0oj39WbLiA=="}}</string>
   </dict>
 </plist>

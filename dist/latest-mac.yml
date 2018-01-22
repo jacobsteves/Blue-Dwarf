@@ -1,10 +1,10 @@
-version: 2.0.0
+version: 2.0.1
 files:
-  - url: Blue-Dwarf-2.0.0-mac.zip
-    sha512: b+3v5uF63+5LSAJeuoy+tqqZ0OZfN5Yz8zsMUWGCbIMTxL2sGL+gwc79IoyE4UYnxhqEafwq3XzZpUMrIj8bDg==
-  - url: Blue-Dwarf-2.0.0.dmg
-    sha512: d7TkAzmdIQUqg7oAAwDQX/dVG1KY6AwwK+FevEdSbg72Lg4hG7v68c2oXCW0xzazl4DOiu7hpRIJnRfwjLOU5w==
-    size: 49922792
-path: Blue-Dwarf-2.0.0-mac.zip
-sha512: b+3v5uF63+5LSAJeuoy+tqqZ0OZfN5Yz8zsMUWGCbIMTxL2sGL+gwc79IoyE4UYnxhqEafwq3XzZpUMrIj8bDg==
-releaseDate: '2018-01-22T02:18:14.437Z'
+  - url: Blue-Dwarf-2.0.1-mac.zip
+    sha512: FMdECU4qyp2WRJN5ziMlYac8CSb0GWGRFXOwzDqN16zTvb8GZZc73dk6lVwxJCUL7+e7NEFDtQxjykfB9flgVQ==
+  - url: Blue-Dwarf-2.0.1.dmg
+    sha512: ERKcS/N/C8tGfLlV7+lUH3aS2M3JC3Am9ABfuPmXIBnMcyUEBk2TJa6q8l8byy8x5EqqAqHwpPtzlnIWlxHp4g==
+    size: 49922837
+path: Blue-Dwarf-2.0.1-mac.zip
+sha512: FMdECU4qyp2WRJN5ziMlYac8CSb0GWGRFXOwzDqN16zTvb8GZZc73dk6lVwxJCUL7+e7NEFDtQxjykfB9flgVQ==
+releaseDate: '2018-01-22T04:16:56.809Z'

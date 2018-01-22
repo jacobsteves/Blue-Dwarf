@@ -88,7 +88,7 @@
         <canvas id="orbit_advanced"></canvas>
         <canvas id="orbit_simple"></canvas>
         <div id="input_panel">
-            <div class="panel-group" id="accordion" role="tablist" class="show">
+            <div class="panel-group" id="accordion" role="tablist" class="hide">
               <div class="panel panel-default">
                   <div class="panel-heading" role="tab" id="test-menu">
                       <h4 class="panel-title">
@@ -314,5 +314,44 @@
                 </div>
             </div>
         </div>
+        <div id="loadingScreen" class="loading-overlay">
+          <img class="logo-img" src="build/logo.png" />
+          <img class="big-four-img" src="build/bigFourLogo.png" />
+        </div>
     </body>
+    <style>
+      .loading-overlay {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        line-height: 100%;
+        left: 0;
+        top: 0;
+        opacity: 1;
+        background: #fff;
+        z-index: 10;
+      }
+
+      .logo-img, .big-four-img {
+        margin: 0 auto;
+        max-height: 100%;
+        max-width: 100%;
+        width: auto;
+        position:absolute;
+        top:0;
+        left:0;
+        right:0;
+        bottom:0;
+        margin:auto;
+        display:none;
+      }
+    </style>
+    <script>
+      $(document).ready(function() {
+        $(".logo-img").fadeIn(1000).delay(3500).fadeOut(1000);
+        $(".big-four-img").delay(6000).fadeIn(1000).delay(1500);
+        $(".loading-overlay").delay(9000).fadeOut(1000);
+      });
+    </script>
 </html>

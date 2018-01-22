@@ -82,7 +82,7 @@ engine.setupControlEvents = function() {
     });
 
     engine.id("pullout_menu").addEventListener('click', function(e) {
-        $('#accordion').toggleClass('show');
+        $('#accordion').toggleClass('hide');
     }, false);
 }
 
