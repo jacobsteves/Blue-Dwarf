@@ -1,4 +1,4 @@
-# Blue Dwarf
+![Logo](build/logo.png)
 A desktop application that simulates orbits and gravity.
 
 ## Features
