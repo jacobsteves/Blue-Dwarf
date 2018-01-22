@@ -6,7 +6,8 @@
   "scripts": {
     "start": "electron .",
     "pack": "electron-builder --dir",
-    "dist": "electron-builder"
+    "dist": "electron-builder",
+    "dist-all": "electron-builder -mwl"
   },
   "repository": "https://github.com/jacobsteves/Blue-Dwarf",
   "keywords": [

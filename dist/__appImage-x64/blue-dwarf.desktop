@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Blue-Dwarf
+Comment=An Electron application allowing users to simulate gravitational orbits.
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=blue-dwarf
+X-AppImage-Version=2.0.0
+X-AppImage-BuildId=63a93450-ff1c-11a7-2e37-5b78a06647e8
+Categories=Utility;

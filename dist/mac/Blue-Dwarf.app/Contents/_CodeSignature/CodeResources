@@ -54,7 +54,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			hluckeJgnr/4hZaxTS23Wmc9C6c=
+			EhsA0CNEuFkhjDgxNtk7tmYDpKw=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.electron.framework" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Jacob Steves (H5SDE6S39W)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			jQwilMB6psxwDA0mxUjiB6WiSk4=
+			rpqRFE++M+uIpanKzwAbWu85foM=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.github.Squirrel" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Jacob Steves (H5SDE6S39W)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
